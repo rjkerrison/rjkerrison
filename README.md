@@ -2,6 +2,12 @@
 
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjkerrison&theme=omni&show_icons=true) 
 
+I'm Robin, I've been coding since I was a wee lad.
+
+I'm currently working with [General Assembly](https://ga.co) to teach the world to code.
+
+Find out more about me at [rjkerrison.co.uk](https://rjkerrison.co.uk).
+
 <!--
 **rjkerrison/rjkerrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
