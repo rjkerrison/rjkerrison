@@ -8,6 +8,12 @@ I'm currently working with [General Assembly](https://ga.co) to teach the world 
 
 Find out more about me at [rjkerrison.co.uk](https://rjkerrison.co.uk).
 
+My top GitHub work is:
+
+- [MHRA/Products](/MHRA/products), UKGov's Medicines Agency website, I worked on during my time with [Red Badger](/redbadger)
+- My [Textbook](/rjkerrison/textbook), an ever-growing collection of [resources for learning HTML5, CSS, and JavaScript](https://rjkerrison.co.uk/textbook)
+- The [ticker-board](/rjkerrison/ticker-board), a JavaScript plugin that generates [a splitflap ticker board effect](https://rjkerrison.co.uk/ticker-board)
+
 <!--
 **rjkerrison/rjkerrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
