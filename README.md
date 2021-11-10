@@ -2,6 +2,9 @@
 
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjkerrison&theme=omni&show_icons=true) 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjkerrison&langs_count=8&theme=omni&layout=compact)
+
+
 I'm Robin, I've been coding since I was a wee lad.
 
 I'm currently working with [General Assembly](https://ga.co) to teach the world to code.
