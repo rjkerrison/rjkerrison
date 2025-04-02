@@ -9,7 +9,7 @@ I'm Robin, I've been coding since I was a wee lad. 🧑🏻‍💻
 
 I've worked with [General Assembly][ga] and [Ironhack][ironhack] to teach the world to code. 💻
 
-Find out more about me at [rjkerrison.co.uk][rjk]. 💡
+Find out more about me at [rjkerrison.github.io][rjk]. 💡
 
 My top GitHub work is:
 
@@ -22,9 +22,9 @@ My top GitHub work is:
 [vercel stats]: https://github-readme-stats.vercel.app/api?username=rjkerrison&theme=omni&show_icons=true
 [ga]: https://ga.co
 [ironhack]: https://ironhack.com
-[rjk]: https://rjkerrison.co.uk
-[rjk textbook]: https://rjkerrison.co.uk/textbook
-[rjk ticker-board]: https://rjkerrison.co.uk/ticker-board
+[rjk]: https://rjkerrison.github.io
+[rjk textbook]: https://rjkerrison.github.io/textbook
+[rjk ticker-board]: https://rjkerrison.github.io/ticker-board
 [gh mhra/products]: https://github.com/MHRA/products
 [gh redbadger]: https://github.com/redbadger
 [gh rjkerrison/ciaocine]: https://github.com/rjkerrison/ciaocine
